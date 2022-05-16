@@ -1,5 +1,5 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
-local Window = Library.CreateLib(" Ajay | SprinX (Winx) [Magical Fairy Dust] (MINI GUI)", "Serpent")
+local Window = Library.CreateLib(" Ajay | SprinX (Winx) [Magical Fairy Dust] (MINI GUI)", "Midnight")
 
 local Tab = Window:NewTab("Normal selection")
 local PlayerSection = Tab:NewSection("Choose a normal player to play as")
